@@ -1,1 +1,2 @@
-https://muslimevloev.github.io/Guitar-Shop/
+Guitar Shop
+	https://muslimevloev.github.io/Guitar-Shop/
